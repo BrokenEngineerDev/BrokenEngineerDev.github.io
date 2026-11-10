@@ -7,8 +7,9 @@ third-party movie and series portals. Hosted on GitHub Pages.
 
 1. Push to `main`.
 2. In the repository open Settings -> Pages, deploy from the `main` branch, root folder.
-3. Leave "Enforce HTTPS" switched off. Most portals are HTTP-only, and an HTTPS menu
-   cannot open them.
+3. Do not set a custom domain unless you own one. GitHub always serves the default
+   `github.io` domain over HTTPS; tiles still open HTTP portals because a `link:` action
+   navigates away from the menu instead of loading the portal inside it.
 
 ## Use on the TV
 

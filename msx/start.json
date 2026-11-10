@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "type": "list",
     "headline": "Фильмы и сериалы",
-    "parameter": "content:http://brokenengineerdev.github.io/Kinopult/msx/start.json",
+    "parameter": "content:https://brokenengineerdev.github.io/Kinopult/msx/start.json",
     "action": "[settings:validate_links:0|home]",
     "template": {
         "type": "separate",
