@@ -14,12 +14,12 @@ third-party movie and series portals. Hosted on GitHub Pages.
 ## Use on the TV
 
 In Media Station X open Settings -> Start Parameter -> Setup and enter
-`brokenengineerdev.github.io/Kinopult` (without `https://`).
+`brokenengineerdev.github.io` (without `https://`).
 
 ## Lampa plugins
 
 In Lampa open Settings -> Extensions -> Add plugin and enter
-`brokenengineerdev.github.io/Kinopult/lampa/plugins.js` once. After that, edit the
+`brokenengineerdev.github.io/lampa/plugins.js` once. After that, edit the
 `PLUGIN_URLS` list in `lampa/plugins.js` and push; Lampa loads the new set on its next
 start.
 
