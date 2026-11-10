@@ -1,0 +1,41 @@
+{
+    "name": "Personal Start",
+    "version": "1.0.0",
+    "type": "list",
+    "headline": "Фильмы и сериалы",
+    "parameter": "content:{PREFIX}{SERVER}/msx/start.json",
+    "action": "[settings:validate_links:0|home]",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "alignment": "title-center",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "Lampa",
+            "icon": "movie",
+            "action": "link:http://lampa.mx/"
+        },
+        {
+            "title": "VoKino",
+            "icon": "live-tv",
+            "action": "link:http://web.vokino.tv/"
+        },
+        {
+            "title": "NoName",
+            "icon": "apps",
+            "action": "content:http://nnmtv.pw/msx/menu.json"
+        },
+        {
+            "title": "Prisma",
+            "icon": "movie-filter",
+            "action": "link:http://prisma.ws/"
+        },
+        {
+            "title": "Station X",
+            "icon": "video-library",
+            "action": "link:http://cdnservices.link/bootstrap.html"
+        }
+    ]
+}
