@@ -14,27 +14,27 @@
     "items": [
         {
             "title": "Lampa",
-            "icon": "movie",
+            "image": "http://lampa.mx/msx-logo.png",
             "action": "link:http://lampa.mx/"
         },
         {
             "title": "VoKino",
-            "icon": "live-tv",
+            "image": "http://web.vokino.tv/fonts/logo-alpha.svg",
             "action": "link:http://web.vokino.tv/"
         },
         {
             "title": "NoName",
-            "icon": "apps",
+            "image": "http://nnmtv.pw/msx/img/msx.png",
             "action": "content:http://nnmtv.pw/msx/menu.json"
         },
         {
             "title": "Prisma",
-            "icon": "movie-filter",
+            "image": "http://prisma.ws/msx-logo.png",
             "action": "link:http://prisma.ws/"
         },
         {
             "title": "Station X",
-            "icon": "video-library",
+            "image": "http://cdnservices.link/logo512.png",
             "action": "link:http://cdnservices.link/bootstrap.html"
         }
     ]
