@@ -1,4 +1,4 @@
-# Personal Start Parameter for Media Station X
+# Kinopult
 
 A personal start menu for [Media Station X](https://msx.benzac.de) that links to
 third-party movie and series portals. Hosted on GitHub Pages.
